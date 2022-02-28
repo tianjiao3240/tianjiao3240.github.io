@@ -12,9 +12,7 @@ git config --global user.email "summer326717@foxmail.com"
 git push
 
 fatal: unable to access 'https://github.com/tianjiao3240/tianjiao3240.github.io.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
-
-git remote set-url origin git@github.com:tianjiao3240/tianjiao3240.github.io.git
-【SSH keys / Add new】添加公开权限
+切换工具账号
 
 4、拉取代码
 git pull

@@ -48,6 +48,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -   [REACT](https://tianjiao3240.github.io/note/react/react)
 
--   [GIT](https://tianjiao3240.github.io/note/git/git)
+-   [GIT](https://tianjiao3240.github.io/note/git/README.md)
 
 -   [VSCODE](https://tianjiao3240.github.io/note/vscode/vscode)

@@ -1,5 +1,6 @@
 # git
 
+```
 1、查看用户名、邮箱
 git config user.name
 git config user.email
@@ -19,3 +20,7 @@ git pull
 
 5、查看提交记录
 git log
+
+6、查看
+git remote -v
+```

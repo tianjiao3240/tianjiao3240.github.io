@@ -9,6 +9,12 @@ git config user.email
 git config --global user.name "tianjiao3240"
 git config --global user.email "summer326717@foxmail.com"
 
+git config --global user.name "尹天姣"
+git config --global user.email "ytj@servyyou.com.cn"
+
+sudo git config --system --unset credential.helper
+git config --global --replace-all user.password 'Servvyou2!'
+
 3、推送代码
 git push
 
@@ -23,4 +29,6 @@ git log
 
 6、查看
 git remote -v
+
+7、切换分支
 ```
